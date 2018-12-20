@@ -24,6 +24,13 @@ DEALINGS IN THE SOFTWARE.
 
 const assert = require("assert");
 
+/*
+    @param options Options for the system.
+    @param options.init Initialisation middleware run on GET and POST.
+    @param options.validate Validation function run on POST.
+    @param options.process Processing middleware run on POST.
+    @param options.render Rendering middleware run on GET and POST.
+*/
 module.exports = function(options) {
     assert(options);
     assert(options.init);
