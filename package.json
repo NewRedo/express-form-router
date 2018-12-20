@@ -1,0 +1,19 @@
+{
+  "name": "express-form-router",
+  "version": "1.0.0",
+  "description": "Form life cycle scaffolding in express.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewRedo/express-form-router.git"
+  },
+  "author": "NewRedo Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewRedo/express-form-router/issues"
+  },
+  "homepage": "https://github.com/NewRedo/express-form-router#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
