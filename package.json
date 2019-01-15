@@ -1,7 +1,21 @@
 {
   "name": "express-form-router",
-  "version": "1.0.0",
-  "description": "Form life cycle scaffolding in express.",
+  "version": "1.0.1",
+  "description": "Form lifecycle scaffolding in express.",
+  "keywords": [
+    "express",
+    "form",
+    "lifecycle",
+    "life-cycle",
+    "life cycle",
+    "router",
+    "routing",
+    "scaffolding",
+    "events",
+    "post",
+    "http",
+    "html"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",

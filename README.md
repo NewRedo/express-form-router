@@ -1,5 +1,5 @@
-# express-form-routing
-Form life cycle scaffolding in express.
+# express-form-router
+Form lifecycle scaffolding in express.
 
 ## Options
 The following functions must be provided on an `options` object:
